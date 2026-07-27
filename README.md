@@ -43,6 +43,13 @@ A curated list of AI SaaS tools categorized by niche. Perfect for inspiration, r
 
 [Thumbs.ai](https://www.thumbs.ai/): Create high-CTR YouTube thumbnails in seconds.
 
+## AI Image Generator
+[Photogenerator.ai](https://www.photogenerator.ai/): Turn any idea into polished, high-resolution photos with our free AI photo generator and the latest image models.
+Free credits included, so you can start generating photos right away.
+
+[PictureMaker](https://www.picturemaker.ai/): Create AI art, logos, avatars, and more with PictureMaker's AI Picture Maker. Try a profile picture maker or cartoon picture maker free today.
+
+
 ## AI Research/AI Citation Generator
 
 [Koke AI](https://www.koke.ai/): The AI-powered Citation Generator helps you create APA, MLA, Chicago, IEEE, and Harvard references in seconds
@@ -52,8 +59,12 @@ A curated list of AI SaaS tools categorized by niche. Perfect for inspiration, r
 
 [tuberepeat.ai](https://www.tuberepeat.ai/) : Paste any YouTube URL to set precise loop points, adjust speed, and track your reps
 
-[Tier lIST Maker](https://www.tierlist.ai/) : Drag and rank anything. Pick a ready-made template or start from a blank board.
+[Tier List Maker](https://www.tierlist.ai/) : Drag and rank anything. Pick a ready-made template or start from a blank board.
 
 [pdftoword.ai](https://www.pdftoword.ai/): All the PDF tools you need: merge, split, compress, convert, rotate, unlock, watermark and organize files in a few clicks.
 
 [imagecolorpicker.io](https://www.imagecolorpicker.io/): Upload, paste, or enter a URL to get HEX, RGB, HSL and more. No signup needed.
+
+[HowToDraw](https://www.howtodraw.ai/): Learn how to draw anything with simple, step-by-step tutorials made for total beginners and kids. 
+
+[Babygenerator](https://www.babygenerator.ai/): Upload a photo of each parent and let AI Baby Generator create a realistic preview of your future baby in seconds.
